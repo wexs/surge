@@ -1,0 +1,23 @@
+
+
+[General]
+skip-proxy = sequoia.apple.com, seed-sequoia.siri.apple.com,
+
+
+[Rule]
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
+DOMAIN-SUFFIX,vercel.app,US
+# DOMAIN-SUFFIX,youtube.com,JP
+DOMAIN-SUFFIX,meta.com,US
+DOMAIN-SUFFIX,taobao.com,DIRECT
+DOMAIN-SUFFIX,huggingface.co,日本-PRO-JP1-Rate:0.2
+DOMAIN-SUFFIX,twitch.tv,US
+DOMAIN-SUFFIX,nike.com,US
+DOMAIN-SUFFIX,anthropic.com,US
+DOMAIN-SUFFIX,viu.com,HK
+DOMAIN,loop.microsoft.com,US
+DOMAIN,bard.google.com,US
+DOMAIN-SUFFIX,bing.com,US
+DOMAIN-SUFFIX,openai.com,US
+DOMAIN-SUFFIX,tiktok.com,US
+DOMAIN-SUFFIX,ecombdapi.com,DIRECT
