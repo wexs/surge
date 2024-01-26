@@ -1,4 +1,9 @@
 
+
+[General]
+skip-proxy = sequoia.apple.com, seed-sequoia.siri.apple.com,
+
+
 [Rule]
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
 DOMAIN-SUFFIX,vercel.app,US
