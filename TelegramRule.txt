@@ -1,5 +1,3 @@
-
-[Rule]
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,US
 DOMAIN-SUFFIX,vercel.app,US
 DOMAIN-SUFFIX,meta.com,US
