@@ -1,0 +1,4 @@
+[Rule]
+DOMAIN-SUFFIX,chatgpt.com,日本-PRO-JP2-Rate:0.2
+GEOIP,CN,DIRECT
+FINAL,Group,dns-failed
